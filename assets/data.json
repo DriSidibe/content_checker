@@ -1,0 +1,293 @@
+{
+  "Course 1": {
+      "Assignment 1": {
+        "Submission 1": {
+          "compositionBreakdown": [
+            {
+              "type": "human-written",
+              "section": "Introduction",
+              "confidence": "80%",
+              "details": "This section is mostly written by the student.",
+              "wordCount": 120
+            },
+            {
+              "type": "ai-assisted",
+              "section": "Body Paragraph 1",
+              "confidence": "70%",
+              "details": "Some AI assistance detected in phrasing.",
+              "wordCount": 200
+            },
+            {
+              "type": "ai-generated",
+              "section": "Conclusion",
+              "confidence": "50%",
+              "details": "Significant AI-generated content detected as 50 50.",
+              "wordCount": 100
+            }
+          ],
+          "Student written": "70%",
+          "AI generated": "30%",
+          "AI Use Assessment": "The student appears to have used AI selectively to assist with smoother phrasing or structure. Usage is within acceptable bounds for drafting support.",
+          "logs": [
+            {
+              "timestamp": "2024-06-01 10:15",
+              "type": "student",
+              "content": "I started my essay by outlining the main points.",
+              "matched": false,
+              "similarity": null
+            },
+            {
+              "timestamp": "2024-06-01 10:17",
+              "type": "ai",
+              "content": "Consider rephrasing this section for clarity.",
+              "matched": false,
+              "similarity": "85%"
+            },
+            {
+              "timestamp": "2024-06-01 10:20",
+              "type": "student",
+              "content": "I revised the introduction as suggested.",
+              "matched": true,
+              "similarity": "92%"
+            }
+          ],
+          "Assessment": "The student appears to have used AI selectively for phrasing and structure assistance. Usage is within acceptable bounds for drafting support.",
+          "content": {
+            "title": "The Ethics of Artificial Intelligence in Education\n\n",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl nec libero luctus cursus. Nullam vehicula magna non purus suscipit, in viverra ipsum elementum. @{Morbi et tincidunt ligula. Sed vestibulum ex vitae urna posuere, vitae feugiat turpis malesuada.} Suspendisse potenti.\n\nAliquam erat volutpat. @{Aenean fringilla nulla nec velit sagittis, sed posuere sem pharetra. Praesent blandit velit vitae velit dictum dapibus.} Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin eget libero ac justo laoreet varius.\n\nInteger vel orci risus. Duis et risus vel neque fermentum facilisis. Quisque tristique feugiat lectus, ut mattis ex vehicula ac. @{Vestibulum eget viverra elit. Curabitur a justo tempor, ultrices lorem nec, congue velit. Aenean volutpat vitae arcu sed varius.}\n\nIn conclusion, the integration of AI in educational settings presents both opportunities and challenges that must be carefully considered. The ethical implications of using AI tools for learning assistance require ongoing dialogue between educators, students, and technology developers."
+          }
+        }, "Submission 2": {
+          "compositionBreakdown": [
+            {
+              "type": "human-written",
+              "section": "Introduction",
+              "confidence": "95%",
+              "details": "This section is mostly written by the student.",
+              "wordCount": 120
+            },
+            {
+              "type": "ai-assisted",
+              "section": "Body Paragraph 1",
+              "confidence": "80%",
+              "details": "Some AI assistance detected in phrasing.",
+              "wordCount": 200
+            },
+            {
+              "type": "ai-generated",
+              "section": "Conclusion",
+              "confidence": "60%",
+              "details": "Significant AI-generated content detected.",
+              "wordCount": 100
+            }
+          ],
+          "Student written": "86%",
+          "AI generated": "14%",
+          "AI Use Assessment": "The student appears to have used AI selectively to assist with smoother phrasing or structure. Usage is within acceptable bounds for drafting support.",
+          "logs": [
+            {
+              "timestamp": "2024-06-01 10:15",
+              "type": "student",
+              "content": "I started my essay by outlining the main points.",
+              "matched": false,
+              "similarity": null
+            },
+            {
+              "timestamp": "2024-06-01 10:17",
+              "type": "ai",
+              "content": "Consider rephrasing this section for clarity.",
+              "matched": false,
+              "similarity": "85%"
+            },
+            {
+              "timestamp": "2024-06-01 10:20",
+              "type": "student",
+              "content": "I revised the introduction as suggested.",
+              "matched": true,
+              "similarity": "92%"
+            }
+          ],
+          "Assessment": "The student appears to have used AI selectively for phrasing and structure assistance. Usage is within acceptable bounds for drafting support.",
+          "content": {
+            "title": "The Ethics of Artificial Intelligence in Education\n\n",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl nec libero luctus cursus. Nullam vehicula magna non purus suscipit, in viverra ipsum elementum. @{Morbi et tincidunt ligula. Sed vestibulum ex vitae urna posuere, vitae feugiat turpis malesuada.} Suspendisse potenti.\n\nAliquam erat volutpat. @{Aenean fringilla nulla nec velit sagittis, sed posuere sem pharetra. Praesent blandit velit vitae velit dictum dapibus.} Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin eget libero ac justo laoreet varius.\n\nInteger vel orci risus. Duis et risus vel neque fermentum facilisis. Quisque tristique feugiat lectus, ut mattis ex vehicula ac. @{Vestibulum eget viverra elit. Curabitur a justo tempor, ultrices lorem nec, congue velit. Aenean volutpat vitae arcu sed varius.}\n\nIn conclusion, the integration of AI in educational settings presents both opportunities and challenges that must be carefully considered. The ethical implications of using AI tools for learning assistance require ongoing dialogue between educators, students, and technology developers."
+          }
+        }
+      },
+      "Assignment 2": {
+        "Submission 3": {
+          "compositionBreakdown": [
+            {
+              "type": "human-written",
+              "section": "Introduction",
+              "confidence": "95%",
+              "details": "This section is mostly written by the student.",
+              "wordCount": 120
+            },
+            {
+              "type": "ai-assisted",
+              "section": "Body Paragraph 1",
+              "confidence": "80%",
+              "details": "Some AI assistance detected in phrasing.",
+              "wordCount": 200
+            },
+            {
+              "type": "ai-generated",
+              "section": "Conclusion",
+              "confidence": "60%",
+              "details": "Significant AI-generated content detected.",
+              "wordCount": 100
+            }
+          ],
+          "Student written": "86%",
+          "AI generated": "14%",
+          "AI Use Assessment": "The student appears to have used AI selectively to assist with smoother phrasing or structure. Usage is within acceptable bounds for drafting support.",
+          "logs": [
+            {
+              "timestamp": "2024-06-01 10:15",
+              "type": "student",
+              "content": "I started my essay by outlining the main points.",
+              "matched": false,
+              "similarity": null
+            },
+            {
+              "timestamp": "2024-06-01 10:17",
+              "type": "ai",
+              "content": "Consider rephrasing this section for clarity.",
+              "matched": false,
+              "similarity": "85%"
+            },
+            {
+              "timestamp": "2024-06-01 10:20",
+              "type": "student",
+              "content": "I revised the introduction as suggested.",
+              "matched": true,
+              "similarity": "92%"
+            }
+          ],
+          "Assessment": "The student appears to have used AI selectively for phrasing and structure assistance. Usage is within acceptable bounds for drafting support.",
+          "content": {
+            "title": "The Ethics of Artificial Intelligence in Education\n\n",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl nec libero luctus cursus. Nullam vehicula magna non purus suscipit, in viverra ipsum elementum. @{Morbi et tincidunt ligula. Sed vestibulum ex vitae urna posuere, vitae feugiat turpis malesuada.} Suspendisse potenti.\n\nAliquam erat volutpat. @{Aenean fringilla nulla nec velit sagittis, sed posuere sem pharetra. Praesent blandit velit vitae velit dictum dapibus.} Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin eget libero ac justo laoreet varius.\n\nInteger vel orci risus. Duis et risus vel neque fermentum facilisis. Quisque tristique feugiat lectus, ut mattis ex vehicula ac. @{Vestibulum eget viverra elit. Curabitur a justo tempor, ultrices lorem nec, congue velit. Aenean volutpat vitae arcu sed varius.}\n\nIn conclusion, the integration of AI in educational settings presents both opportunities and challenges that must be carefully considered. The ethical implications of using AI tools for learning assistance require ongoing dialogue between educators, students, and technology developers."
+          }
+        }
+      }
+  },
+  "Course 2": {
+      "Assignment 3": {
+        "Submission 4": {
+          "compositionBreakdown": [
+            {
+              "type": "human-written",
+              "section": "Introduction",
+              "confidence": "95%",
+              "details": "This section is mostly written by the student.",
+              "wordCount": 120
+            },
+            {
+              "type": "ai-assisted",
+              "section": "Body Paragraph 1",
+              "confidence": "80%",
+              "details": "Some AI assistance detected in phrasing.",
+              "wordCount": 200
+            },
+            {
+              "type": "ai-generated",
+              "section": "Conclusion",
+              "confidence": "60%",
+              "details": "Significant AI-generated content detected.",
+              "wordCount": 100
+            }
+          ],
+          "Student written": "86%",
+          "AI generated": "14%",
+          "AI Use Assessment": "The student appears to have used AI selectively to assist with smoother phrasing or structure. Usage is within acceptable bounds for drafting support.",
+          "logs": [
+            {
+              "timestamp": "2024-06-01 10:15",
+              "type": "student",
+              "content": "I started my essay by outlining the main points.",
+              "matched": false,
+              "similarity": null
+            },
+            {
+              "timestamp": "2024-06-01 10:17",
+              "type": "ai",
+              "content": "Consider rephrasing this section for clarity.",
+              "matched": false,
+              "similarity": "85%"
+            },
+            {
+              "timestamp": "2024-06-01 10:20",
+              "type": "student",
+              "content": "I revised the introduction as suggested.",
+              "matched": true,
+              "similarity": "92%"
+            }
+          ],
+          "Assessment": "The student appears to have used AI selectively for phrasing and structure assistance. Usage is within acceptable bounds for drafting support.",
+          "content": {
+            "title": "The Ethics of Artificial Intelligence in Education\n\n",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl nec libero luctus cursus. Nullam vehicula magna non purus suscipit, in viverra ipsum elementum. @{Morbi et tincidunt ligula. Sed vestibulum ex vitae urna posuere, vitae feugiat turpis malesuada.} Suspendisse potenti.\n\nAliquam erat volutpat. @{Aenean fringilla nulla nec velit sagittis, sed posuere sem pharetra. Praesent blandit velit vitae velit dictum dapibus.} Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin eget libero ac justo laoreet varius.\n\nInteger vel orci risus. Duis et risus vel neque fermentum facilisis. Quisque tristique feugiat lectus, ut mattis ex vehicula ac. @{Vestibulum eget viverra elit. Curabitur a justo tempor, ultrices lorem nec, congue velit. Aenean volutpat vitae arcu sed varius.}\n\nIn conclusion, the integration of AI in educational settings presents both opportunities and challenges that must be carefully considered. The ethical implications of using AI tools for learning assistance require ongoing dialogue between educators, students, and technology developers."
+          }
+        }
+      },
+      "Assignment 4": {
+        "Submission 5": {
+          "compositionBreakdown": [
+            {
+              "type": "human-written",
+              "section": "Introduction",
+              "confidence": "95%",
+              "details": "This section is mostly written by the student.",
+              "wordCount": 120
+            },
+            {
+              "type": "ai-assisted",
+              "section": "Body Paragraph 1",
+              "confidence": "80%",
+              "details": "Some AI assistance detected in phrasing.",
+              "wordCount": 200
+            },
+            {
+              "type": "ai-generated",
+              "section": "Conclusion",
+              "confidence": "60%",
+              "details": "Significant AI-generated content detected.",
+              "wordCount": 100
+            }
+          ],
+          "Student written": "86%",
+          "AI generated": "14%",
+          "AI Use Assessment": "The student appears to have used AI selectively to assist with smoother phrasing or structure. Usage is within acceptable bounds for drafting support.",
+          "logs": [
+            {
+              "timestamp": "2024-06-01 10:15",
+              "type": "student",
+              "content": "I started my essay by outlining the main points.",
+              "matched": false,
+              "similarity": null
+            },
+            {
+              "timestamp": "2024-06-01 10:17",
+              "type": "ai",
+              "content": "Consider rephrasing this section for clarity.",
+              "matched": false,
+              "similarity": "85%"
+            },
+            {
+              "timestamp": "2024-06-01 10:20",
+              "type": "student",
+              "content": "I revised the introduction as suggested.",
+              "matched": true,
+              "similarity": "92%"
+            }
+          ],
+          "Assessment": "The student appears to have used AI selectively for phrasing and structure assistance. Usage is within acceptable bounds for drafting support.",
+          "content": {
+            "title": "The Ethics of Artificial Intelligence in Education\n\n",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl nec libero luctus cursus. Nullam vehicula magna non purus suscipit, in viverra ipsum elementum. @{Morbi et tincidunt ligula. Sed vestibulum ex vitae urna posuere, vitae feugiat turpis malesuada.} Suspendisse potenti.\n\nAliquam erat volutpat. @{Aenean fringilla nulla nec velit sagittis, sed posuere sem pharetra. Praesent blandit velit vitae velit dictum dapibus.} Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin eget libero ac justo laoreet varius.\n\nInteger vel orci risus. Duis et risus vel neque fermentum facilisis. Quisque tristique feugiat lectus, ut mattis ex vehicula ac. @{Vestibulum eget viverra elit. Curabitur a justo tempor, ultrices lorem nec, congue velit. Aenean volutpat vitae arcu sed varius.}\n\nIn conclusion, the integration of AI in educational settings presents both opportunities and challenges that must be carefully considered. The ethical implications of using AI tools for learning assistance require ongoing dialogue between educators, students, and technology developers."
+          }
+        }
+      }
+  }
+}
